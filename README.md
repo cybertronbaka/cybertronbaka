@@ -5,7 +5,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=cybertronbaka&style=flat-square&color=blue" alt=""></p>
 
-![Welcome Banner](./images/welcomeToDartSide.png)
+<p align="center"><img src="./images/welcomeToDartSide.png" width="600" height="300"  /></p>
 ### :technologist: &nbsp;About Me :
 
 - 🔭 I’m working as a Freelance Software Engineer and contributing to frontend and backend for building web, mobile, desktop applications.
